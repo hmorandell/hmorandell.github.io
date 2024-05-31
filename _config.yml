@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  hmorandell
 
 # Build settings
-remote-theme: Thinkspace
+remote-theme: thinkspace
 plugins:
   - jekyll-feed
 
