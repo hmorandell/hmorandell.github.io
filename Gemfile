@@ -1,5 +1,4 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.2"
 gemspec
 group :jekyll_plugins do
     gem "jekyll-sitemap"
